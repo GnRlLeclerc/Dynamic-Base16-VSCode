@@ -8,8 +8,10 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dlasagno/vscode-wal-theme"
+    "url": "https://github.com/GnRlLeclerc/Dynamic-Base16-VSCode"
   },
+  "homepage": "https://github.com/GnRlLeclerc/Dynamic-Base16-VSCode#readme",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.91.0"
   },
