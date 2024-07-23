@@ -2,12 +2,27 @@
   "name": "dynamic-base16-vscode",
   "displayName": "Dynamic Base16",
   "description": "A dynamic theme leader for VSCode, made for base16 theme hoppers.",
-  "version": "0.0.1",
+  "publisher": "GnRlLeclerc",
+  "author": "Thibaut de Saivre",
+  "license": "MIT",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlasagno/vscode-wal-theme"
+  },
   "engines": {
     "vscode": "^1.91.0"
   },
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
   "categories": [
-    "Other"
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "base16"
   ],
   "activationEvents": [
     "*"

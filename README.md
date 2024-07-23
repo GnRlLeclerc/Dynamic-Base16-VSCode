@@ -42,3 +42,19 @@ template = "vscode"
 subtemplate = "base16"
 rewrite = true
 ```
+
+## Development Setup
+
+Install the `bun` package manager:
+
+```bash
+npm install -g bun
+```
+
+Install the dependencies:
+
+```bash
+bun install
+```
+
+Then `Start Debugging` in VSCode (`F5`).
