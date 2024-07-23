@@ -5,7 +5,7 @@ Made to work in tandem with [Flavours](https://github.com/Misterio77/flavours).
 
 Inspired from [dlasagno/vscode-wal-theme](https://github.com/dlasagno/vscode-wal-theme).
 
-Made for Linux be default, but should work on other platforms by tweaking the paths settings.
+Made for Linux by default, but should work on other OS by tweaking the paths settings.
 
 ## Features
 
@@ -23,7 +23,7 @@ The following [Flavours](https://github.com/Misterio77/flavours) configurations 
 
 ### Colors
 
-Be sure to put the [`colors.mustache`](./assets/colors.mustache) file in your Flavours configuration folder (`~/.config/flavours/templates/colors/templates/json.mustache`).
+Be sure to put the [`colors.mustache`](./templates/colors.mustache) file in your Flavours configuration folder (`~/.config/flavours/templates/colors/templates/json.mustache`).
 
 ```toml
 [[items]]
